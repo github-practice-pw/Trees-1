@@ -1,10 +1,10 @@
 /*
- *                  Find Minimum in Rotated Sorted Array
+ *                  Validate Binary Search Tree
  *
- * Leetcode : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+ * Leetcode : https://leetcode.com/problems/validate-binary-search-tree/description/
  * 
- * Time complexity : Worst Case O(h) where h is the height
- * Space complexity : Worst case O(h)
+ * Time complexity : Worst Case O(n) where n is the number of nodes
+ * Space complexity : Worst case O(h) where h is the height of the tree
  * 
  * Did this code successfully run on Leetcode : Yes
  * Any problem you faced while coding this : -
